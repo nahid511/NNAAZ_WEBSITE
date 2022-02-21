@@ -1,0 +1,626 @@
+    <!DOCTYPE html>
+    <html lang="en-US">
+    <head itemscope itemtype="http://schema.org/WebSite">
+	    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <title>NNAAZ &#8211; LIVE IN PRIDE</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="NNAAZ &raquo; Feed" href="http://localhost/nnaaz/feed/" />
+<link rel="alternate" type="application/rss+xml" title="NNAAZ &raquo; Comments Feed" href="http://localhost/nnaaz/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/localhost\/nnaaz\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.9"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='dashicons-css'  href='http://localhost/nnaaz/wp-includes/css/dashicons.min.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='admin-bar-css'  href='http://localhost/nnaaz/wp-includes/css/admin-bar.min.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='http://localhost/nnaaz/wp-includes/css/dist/block-library/style.min.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='blossomthemes-email-newsletter-css'  href='http://localhost/nnaaz/wp-content/plugins/blossomthemes-email-newsletter/public/css/blossomthemes-email-newsletter-public.min.css?ver=2.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='blossomthemes-instagram-feed-css'  href='http://localhost/nnaaz/wp-content/plugins/blossomthemes-instagram-feed/public/css/blossomthemes-instagram-feed-public.min.css?ver=2.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css'  href='http://localhost/nnaaz/wp-content/plugins/blossomthemes-instagram-feed/public/css/magnific-popup.min.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='blossomthemes-toolkit-css'  href='http://localhost/nnaaz/wp-content/plugins/blossomthemes-toolkit/public/css/blossomthemes-toolkit-public.min.css?ver=2.1.9' type='text/css' media='all' />
+<link rel='stylesheet' id='tcpc-style-css'  href='http://localhost/nnaaz/wp-content/plugins/tc-product-catalog/assets/css/tcpc.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-css'  href='http://localhost/nnaaz/wp-content/themes/vilva/css/owl.carousel.min.css?ver=2.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css'  href='http://localhost/nnaaz/wp-content/themes/vilva/css/animate.min.css?ver=3.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='vilva-google-fonts-css'  href='https://fonts.googleapis.com/css?family=Nunito+Sans%3A200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CEB+Garamond%3Aregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%7CEB+Garamond%3Aregular' type='text/css' media='all' />
+<link rel='stylesheet' id='vilva-css'  href='http://localhost/nnaaz/wp-content/themes/vilva/style.css?ver=1.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='vilva-gutenberg-css'  href='http://localhost/nnaaz/wp-content/themes/vilva/css/gutenberg.min.css?ver=1.0.5' type='text/css' media='all' />
+<script type='text/javascript' src='http://localhost/nnaaz/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='http://localhost/nnaaz/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://localhost/nnaaz/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://localhost/nnaaz/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://localhost/nnaaz/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4.9" />
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><style type="text/css" media="print">#wpadminbar { display:none; }</style>
+	<style type="text/css" media="screen">
+	html { margin-top: 32px !important; }
+	* html body { margin-top: 32px !important; }
+	@media screen and ( max-width: 782px ) {
+		html { margin-top: 46px !important; }
+		* html body { margin-top: 46px !important; }
+	}
+</style>
+	<link rel="icon" href="http://localhost/nnaaz/wp-content/uploads/2020/07/cropped-onlinelogomaker-061820-1458-6934-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://localhost/nnaaz/wp-content/uploads/2020/07/cropped-onlinelogomaker-061820-1458-6934-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="http://localhost/nnaaz/wp-content/uploads/2020/07/cropped-onlinelogomaker-061820-1458-6934-180x180.png" />
+<meta name="msapplication-TileImage" content="http://localhost/nnaaz/wp-content/uploads/2020/07/cropped-onlinelogomaker-061820-1458-6934-270x270.png" />
+<style type='text/css' media='all'>     
+    .content-newsletter .blossomthemes-email-newsletter-wrapper.bg-img:after,
+    .widget_blossomthemes_email_newsletter_widget .blossomthemes-email-newsletter-wrapper:after{
+        background: rgba(214, 92, 145, 0.8);    }
+    
+    /*Typography*/
+
+    body,
+    button,
+    input,
+    select,
+    optgroup,
+    textarea{
+        font-family : Nunito Sans;
+        font-size   : 18px;        
+    }
+
+    :root {
+	    --primary-font: Nunito Sans;
+	    --secondary-font: EB Garamond;
+	    --primary-color: #d65c91;
+	    --primary-color-rgb: 214, 92, 145;
+	}
+    
+    .site-branding .site-title-wrap .site-title{
+        font-size   : 73px;
+        font-family : EB Garamond;
+        font-weight : 400;
+        font-style  : normal;
+    }
+    
+    .site-branding .site-title-wrap .site-title a{
+		color: #d14078;
+	}
+    
+    .custom-logo-link img{
+	    width: 70px;
+	    max-width: 100%;
+	}
+
+    .comment-body .reply .comment-reply-link:hover:before {
+		background-image: url('data:image/svg+xml; utf-8, <svg xmlns="http://www.w3.org/2000/svg" width="18" height="15" viewBox="0 0 18 15"><path d="M934,147.2a11.941,11.941,0,0,1,7.5,3.7,16.063,16.063,0,0,1,3.5,7.3c-2.4-3.4-6.1-5.1-11-5.1v4.1l-7-7,7-7Z" transform="translate(-927 -143.2)" fill="%23d65c91"/></svg>');
+	}
+
+	.site-header.style-five .header-mid .search-form .search-submit:hover {
+		background-image: url('data:image/svg+xml; utf-8, <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="%23d65c91" d="M508.5 468.9L387.1 347.5c-2.3-2.3-5.3-3.5-8.5-3.5h-13.2c31.5-36.5 50.6-84 50.6-136C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c52 0 99.5-19.1 136-50.6v13.2c0 3.2 1.3 6.2 3.5 8.5l121.4 121.4c4.7 4.7 12.3 4.7 17 0l22.6-22.6c4.7-4.7 4.7-12.3 0-17zM208 368c-88.4 0-160-71.6-160-160S119.6 48 208 48s160 71.6 160 160-71.6 160-160 160z"></path></svg>');
+	}
+
+	.site-header.style-seven .header-bottom .search-form .search-submit:hover {
+		background-image: url('data:image/svg+xml; utf-8, <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="%23d65c91" d="M508.5 468.9L387.1 347.5c-2.3-2.3-5.3-3.5-8.5-3.5h-13.2c31.5-36.5 50.6-84 50.6-136C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c52 0 99.5-19.1 136-50.6v13.2c0 3.2 1.3 6.2 3.5 8.5l121.4 121.4c4.7 4.7 12.3 4.7 17 0l22.6-22.6c4.7-4.7 4.7-12.3 0-17zM208 368c-88.4 0-160-71.6-160-160S119.6 48 208 48s160 71.6 160 160-71.6 160-160 160z"></path></svg>');
+	}
+
+	.site-header.style-fourteen .search-form .search-submit:hover {
+		background-image: url('data:image/svg+xml; utf-8, <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="%23d65c91" d="M508.5 468.9L387.1 347.5c-2.3-2.3-5.3-3.5-8.5-3.5h-13.2c31.5-36.5 50.6-84 50.6-136C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c52 0 99.5-19.1 136-50.6v13.2c0 3.2 1.3 6.2 3.5 8.5l121.4 121.4c4.7 4.7 12.3 4.7 17 0l22.6-22.6c4.7-4.7 4.7-12.3 0-17zM208 368c-88.4 0-160-71.6-160-160S119.6 48 208 48s160 71.6 160 160-71.6 160-160 160z"></path></svg>');
+	}
+
+	.search-results .content-area > .page-header .search-submit:hover {
+		background-image: url('data:image/svg+xml; utf-8, <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="%23d65c91" d="M508.5 468.9L387.1 347.5c-2.3-2.3-5.3-3.5-8.5-3.5h-13.2c31.5-36.5 50.6-84 50.6-136C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c52 0 99.5-19.1 136-50.6v13.2c0 3.2 1.3 6.2 3.5 8.5l121.4 121.4c4.7 4.7 12.3 4.7 17 0l22.6-22.6c4.7-4.7 4.7-12.3 0-17zM208 368c-88.4 0-160-71.6-160-160S119.6 48 208 48s160 71.6 160 160-71.6 160-160 160z"></path></svg>');
+	}
+           
+    </style></head>
+
+<body class="home blog logged-in admin-bar no-customize-support wp-embed-responsive hfeed post-layout-one vilva-has-blocks rightsidebar" itemscope itemtype="http://schema.org/WebPage">
+
+	<!--[if lte IE 8]>
+		<script type="text/javascript">
+			document.body.className = document.body.className.replace( /(^|\s)(no-)?customize-support(?=\s|$)/, '' ) + ' no-customize-support';
+		</script>
+	<![endif]-->
+	<!--[if gte IE 9]><!-->
+		<script type="text/javascript">
+			(function() {
+				var request, b = document.body, c = 'className', cs = 'customize-support', rcs = new RegExp('(^|\\s+)(no-)?'+cs+'(\\s+|$)');
+
+						request = true;
+		
+				b[c] = b[c].replace( rcs, ' ' );
+				// The customizer requires postMessage and CORS (if the site is cross domain).
+				b[c] += ( window.postMessage && request ? ' ' : ' no-' ) + cs;
+			}());
+		</script>
+	<!--<![endif]-->
+			<div id="wpadminbar" class="nojq nojs">
+							<a class="screen-reader-shortcut" href="#wp-toolbar" tabindex="1">Skip to toolbar</a>
+						<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Toolbar">
+				<ul id='wp-admin-bar-root-default' class="ab-top-menu"><li id='wp-admin-bar-wp-logo' class="menupop"><a class='ab-item' aria-haspopup="true" href='http://localhost/nnaaz/wp-admin/about.php'><span class="ab-icon"></span><span class="screen-reader-text">About WordPress</span></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-wp-logo-default' class="ab-submenu"><li id='wp-admin-bar-about'><a class='ab-item' href='http://localhost/nnaaz/wp-admin/about.php'>About WordPress</a></li></ul><ul id='wp-admin-bar-wp-logo-external' class="ab-sub-secondary ab-submenu"><li id='wp-admin-bar-wporg'><a class='ab-item' href='https://wordpress.org/'>WordPress.org</a></li><li id='wp-admin-bar-documentation'><a class='ab-item' href='https://codex.wordpress.org/'>Documentation</a></li><li id='wp-admin-bar-support-forums'><a class='ab-item' href='https://wordpress.org/support/'>Support</a></li><li id='wp-admin-bar-feedback'><a class='ab-item' href='https://wordpress.org/support/forum/requests-and-feedback'>Feedback</a></li></ul></div></li><li id='wp-admin-bar-site-name' class="menupop"><a class='ab-item' aria-haspopup="true" href='http://localhost/nnaaz/wp-admin/'>NNAAZ</a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-site-name-default' class="ab-submenu"><li id='wp-admin-bar-dashboard'><a class='ab-item' href='http://localhost/nnaaz/wp-admin/'>Dashboard</a></li></ul><ul id='wp-admin-bar-appearance' class="ab-submenu"><li id='wp-admin-bar-themes'><a class='ab-item' href='http://localhost/nnaaz/wp-admin/themes.php'>Themes</a></li><li id='wp-admin-bar-widgets'><a class='ab-item' href='http://localhost/nnaaz/wp-admin/widgets.php'>Widgets</a></li><li id='wp-admin-bar-menus'><a class='ab-item' href='http://localhost/nnaaz/wp-admin/nav-menus.php'>Menus</a></li><li id='wp-admin-bar-background' class="hide-if-customize"><a class='ab-item' href='http://localhost/nnaaz/wp-admin/themes.php?page=custom-background'>Background</a></li><li id='wp-admin-bar-header' class="hide-if-customize"><a class='ab-item' href='http://localhost/nnaaz/wp-admin/themes.php?page=custom-header'>Header</a></li></ul></div></li><li id='wp-admin-bar-customize' class="hide-if-no-customize"><a class='ab-item' href='http://localhost/nnaaz/wp-admin/customize.php?url=http%3A%2F%2Flocalhost%2Fnnaaz%2F'>Customize</a></li><li id='wp-admin-bar-updates'><a class='ab-item' href='http://localhost/nnaaz/wp-admin/update-core.php' title='5 Plugin Updates, 1 Theme Update'><span class="ab-icon"></span><span class="ab-label">6</span><span class="screen-reader-text">5 Plugin Updates, 1 Theme Update</span></a></li><li id='wp-admin-bar-comments'><a class='ab-item' href='http://localhost/nnaaz/wp-admin/edit-comments.php'><span class="ab-icon"></span><span class="ab-label awaiting-mod pending-count count-0" aria-hidden="true">0</span><span class="screen-reader-text comments-in-moderation-text">0 Comments in moderation</span></a></li><li id='wp-admin-bar-new-content' class="menupop"><a class='ab-item' aria-haspopup="true" href='http://localhost/nnaaz/wp-admin/post-new.php'><span class="ab-icon"></span><span class="ab-label">New</span></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-new-content-default' class="ab-submenu"><li id='wp-admin-bar-new-post'><a class='ab-item' href='http://localhost/nnaaz/wp-admin/post-new.php'>Post</a></li><li id='wp-admin-bar-new-media'><a class='ab-item' href='http://localhost/nnaaz/wp-admin/media-new.php'>Media</a></li><li id='wp-admin-bar-new-page'><a class='ab-item' href='http://localhost/nnaaz/wp-admin/post-new.php?post_type=page'>Page</a></li><li id='wp-admin-bar-new-subscribe-form'><a class='ab-item' href='http://localhost/nnaaz/wp-admin/post-new.php?post_type=subscribe-form'>BlossomThemes Email Newsletter</a></li><li id='wp-admin-bar-new-blossom-portfolio'><a class='ab-item' href='http://localhost/nnaaz/wp-admin/post-new.php?post_type=blossom-portfolio'>Portfolio</a></li><li id='wp-admin-bar-new-tcpc'><a class='ab-item' href='http://localhost/nnaaz/wp-admin/post-new.php?post_type=tcpc'>Product Catalog</a></li><li id='wp-admin-bar-new-user'><a class='ab-item' href='http://localhost/nnaaz/wp-admin/user-new.php'>User</a></li></ul></div></li></ul><ul id='wp-admin-bar-top-secondary' class="ab-top-secondary ab-top-menu"><li id='wp-admin-bar-search' class="admin-bar-search"><div class="ab-item ab-empty-item" tabindex="-1"><form action="http://localhost/nnaaz/" method="get" id="adminbarsearch"><input class="adminbar-input" name="s" id="adminbar-search" type="text" value="" maxlength="150" /><label for="adminbar-search" class="screen-reader-text">Search</label><input type="submit" class="adminbar-button" value="Search"/></form></div></li><li id='wp-admin-bar-my-account' class="menupop with-avatar"><a class='ab-item' aria-haspopup="true" href='http://localhost/nnaaz/wp-admin/profile.php'>Howdy, <span class="display-name">admin</span><img alt='' src='http://0.gravatar.com/avatar/f0e5e9040547de722296e75028c537c5?s=26&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/f0e5e9040547de722296e75028c537c5?s=52&#038;d=mm&#038;r=g 2x' class='avatar avatar-26 photo' height='26' width='26' /></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-user-actions' class="ab-submenu"><li id='wp-admin-bar-user-info'><a class='ab-item' tabindex="-1" href='http://localhost/nnaaz/wp-admin/profile.php'><img alt='' src='http://0.gravatar.com/avatar/f0e5e9040547de722296e75028c537c5?s=64&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/f0e5e9040547de722296e75028c537c5?s=128&#038;d=mm&#038;r=g 2x' class='avatar avatar-64 photo' height='64' width='64' /><span class='display-name'>admin</span></a></li><li id='wp-admin-bar-edit-profile'><a class='ab-item' href='http://localhost/nnaaz/wp-admin/profile.php'>Edit My Profile</a></li><li id='wp-admin-bar-logout'><a class='ab-item' href='http://localhost/nnaaz/wp-login.php?action=logout&#038;_wpnonce=1046123ee5'>Log Out</a></li></ul></div></li></ul>			</div>
+						<a class="screen-reader-shortcut" href="http://localhost/nnaaz/wp-login.php?action=logout&#038;_wpnonce=1046123ee5">Log Out</a>
+					</div>
+
+		    <div id="page" class="site">
+        <a class="skip-link" href="#content">Skip to Content</a>
+    
+    <header id="masthead" class="site-header style-one" itemscope itemtype="http://schema.org/WPHeader">
+        <div class="header-t">
+            <div class="container">
+                    
+	<nav class="secondary-menu">
+                <div class="secondary-menu-list menu-modal cover-modal" data-modal-target-string=".menu-modal">
+            <button class="close close-nav-toggle" data-toggle-target=".menu-modal" data-toggle-body-class="showing-menu-modal" aria-expanded="false" data-set-focus=".menu-modal">
+                <span class="toggle-bar"></span>
+                <span class="toggle-bar"></span>
+            </button>
+            <div class="mobile-menu" aria-label="Mobile">
+                <ul id="secondary-menu" class="menu"><li><a href="http://localhost/nnaaz/wp-admin/nav-menus.php">Click here to add a menu</a></li></ul>            </div>
+        </div>
+	</nav>
+                    <div class="right">
+                    <div class="header-social">
+                                            </div><!-- .header-social -->
+                                            <div class="header-search">                
+                            <button class="search-toggle" data-toggle-target=".search-modal" data-toggle-body-class="showing-search-modal" data-set-focus=".search-modal .search-field" aria-expanded="false">
+                                <i class="fas fa-search"></i>
+                            </button>
+                            <div class="header-search-wrap search-modal cover-modal" data-modal-target-string=".search-modal">
+                                <div class="header-search-inner-wrap">
+                                    <form role="search" method="get" class="search-form" action="http://localhost/nnaaz/">
+                    <label>
+                        <span class="screen-reader-text">Looking for Something?
+                        </span>
+                        <input type="search" class="search-field" placeholder="Type &amp; Hit Enter&hellip;" value="" name="s" />
+                    </label>                
+                    <input type="submit" id="submit-field" class="search-submit" value="Search" />
+                </form>                                    <button class="close" data-toggle-target=".search-modal" data-toggle-body-class="showing-search-modal" data-set-focus=".search-modal .search-field" aria-expanded="false"></button>
+                                </div>
+                            </div>
+                        </div><!-- .header-search -->
+                                
+                </div><!-- .right -->
+            </div>
+        </div><!-- .header-t -->
+
+        <div class="header-mid">
+            <div class="container">
+                        <div class="site-branding" itemscope itemtype="http://schema.org/Organization">  
+            <div class="site-logo">
+                            </div>
+
+            <div class="site-title-wrap">                    <h1 class="site-title" itemprop="name"><a href="http://localhost/nnaaz/" rel="home" itemprop="url">NNAAZ</a></h1>
+                                        <p class="site-description" itemprop="description">LIVE IN PRIDE</p>
+                </div>        </div>    
+                </div>
+        </div><!-- .header-mid -->
+
+        <div class="header-bottom">
+            <div class="container">
+                	<nav id="site-navigation" class="main-navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+                <button class="toggle-btn" data-toggle-target=".main-menu-modal" data-toggle-body-class="showing-main-menu-modal" aria-expanded="false" data-set-focus=".close-main-nav-toggle">
+            <span class="toggle-bar"></span>
+            <span class="toggle-bar"></span>
+            <span class="toggle-bar"></span>
+        </button>
+        <span class="toggle-text">Menu</span>
+                <div class="primary-menu-list main-menu-modal cover-modal" data-modal-target-string=".main-menu-modal">
+            <button class="close close-main-nav-toggle" data-toggle-target=".main-menu-modal" data-toggle-body-class="showing-main-menu-modal" aria-expanded="false" data-set-focus=".main-menu-modal"></button>
+            <div class="mobile-menu" aria-label="Mobile">
+                <div class="menu-main-menu-container"><ul id="primary-menu" class="nav-menu main-menu-modal"><li id="menu-item-6" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6"><a href="http://localhost/nnaaz/home/">HOME</a></li>
+<li id="menu-item-66" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-66"><a href="http://localhost/nnaaz/fashion/">FASHION</a></li>
+<li id="menu-item-62" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-62"><a href="http://localhost/nnaaz/shop/">SHOP</a></li>
+<li id="menu-item-15" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15"><a href="http://localhost/nnaaz/about-us/">ABOUT US</a></li>
+<li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18"><a href="http://localhost/nnaaz/contact-us/">CONTACT US</a></li>
+</ul></div>            </div>
+        </div>
+	</nav><!-- #site-navigation -->
+                </div>
+        </div><!-- .header-bottom -->
+    </header>
+    
+                    <div id="banner_section" class="site-banner style-one">
+                        <div class="item-wrap owl-carousel">
+                                                            <div class="item">
+                                    <img width="626" height="417" src="http://localhost/nnaaz/wp-content/uploads/2020/07/a3-e1595969266931.jpg" class="attachment-vilva-slider-one size-vilva-slider-one wp-post-image" alt="" itemprop="image" />                                        <div class="banner-caption">
+                                            <div class="container">
+                                                <div class="cat-links">
+                                                    <span class="category"><a href="http://localhost/nnaaz/category/lifestyle/nnaaz/" rel="category tag">NNAAZ</a></span>                                                </div>
+                                                <h2 class="banner-title">
+                                                    <a href="http://localhost/nnaaz/how-successful-people-make-the-most-of-their-shopping/">How Successful People Make the Most of Their Shopping</a>
+                                                </h2>                                            
+                                            </div>
+                                        </div>
+                                                                    </div>
+                                                            <div class="item">
+                                    <img width="600" height="390" src="http://localhost/nnaaz/wp-content/uploads/2020/07/a7.jpg" class="attachment-vilva-slider-one size-vilva-slider-one wp-post-image" alt="" itemprop="image" srcset="http://localhost/nnaaz/wp-content/uploads/2020/07/a7.jpg 600w, http://localhost/nnaaz/wp-content/uploads/2020/07/a7-300x195.jpg 300w, http://localhost/nnaaz/wp-content/uploads/2020/07/a7-92x60.jpg 92w" sizes="(max-width: 600px) 100vw, 600px" />                                        <div class="banner-caption">
+                                            <div class="container">
+                                                <div class="cat-links">
+                                                    <span class="category"><a href="http://localhost/nnaaz/category/fitness/exercise/" rel="category tag">EXERCISE</a></span>                                                </div>
+                                                <h2 class="banner-title">
+                                                    <a href="http://localhost/nnaaz/12-best-at-home-workouts-you-can-do-without-any-equipment/">12 Best At-Home Workouts You Can Do Without Any Equipment</a>
+                                                </h2>                                            
+                                            </div>
+                                        </div>
+                                                                    </div>
+                                                            <div class="item">
+                                    <img width="1050" height="600" src="http://localhost/nnaaz/wp-content/uploads/2020/07/ffh-1050x600.jpg" class="attachment-vilva-slider-one size-vilva-slider-one wp-post-image" alt="" itemprop="image" srcset="http://localhost/nnaaz/wp-content/uploads/2020/07/ffh-1050x600.jpg 1050w, http://localhost/nnaaz/wp-content/uploads/2020/07/ffh-330x190.jpg 330w" sizes="(max-width: 1050px) 100vw, 1050px" />                                        <div class="banner-caption">
+                                            <div class="container">
+                                                <div class="cat-links">
+                                                    <span class="category"><a href="http://localhost/nnaaz/category/lifestyle/nnaaz/fashion/" rel="category tag">FASHION</a> <a href="http://localhost/nnaaz/category/lifestyle/" rel="category tag">LIFESTYLE</a> <a href="http://localhost/nnaaz/category/makeup/" rel="category tag">MAKEUP</a> <a href="http://localhost/nnaaz/category/lifestyle/nnaaz/" rel="category tag">NNAAZ</a></span>                                                </div>
+                                                <h2 class="banner-title">
+                                                    <a href="http://localhost/nnaaz/life-changing-fashion-tricks-and-hacks-for-women/">Life Changing Fashion Tricks and Hacks for Women</a>
+                                                </h2>                                            
+                                            </div>
+                                        </div>
+                                                                    </div>
+                                                            <div class="item">
+                                    <img width="830" height="600" src="http://localhost/nnaaz/wp-content/uploads/2020/07/book-830x600.jpg" class="attachment-vilva-slider-one size-vilva-slider-one wp-post-image" alt="" itemprop="image" />                                        <div class="banner-caption">
+                                            <div class="container">
+                                                <div class="cat-links">
+                                                    <span class="category"><a href="http://localhost/nnaaz/category/lifestyle/" rel="category tag">LIFESTYLE</a> <a href="http://localhost/nnaaz/category/lifestyle/nnaaz/" rel="category tag">NNAAZ</a></span>                                                </div>
+                                                <h2 class="banner-title">
+                                                    <a href="http://localhost/nnaaz/the-best-books-of-the-year-2020so-far/">The Best Books of the Year 2020(So Far)</a>
+                                                </h2>                                            
+                                            </div>
+                                        </div>
+                                                                    </div>
+                                                         
+                        </div>
+                    </div>
+                            <section id="featured_area" class="promo-section">
+            <div class="container">
+                <section id="bttk_image_text_widget-2" class="widget widget_bttk_image_text_widget">            <ul class="bttk-itw-holder">
+                <li>                            <a href="http://localhost/nnaaz/about-us/" target="_blank">
+                                <img width="420" height="280" src="http://localhost/nnaaz/wp-content/uploads/2020/07/a3-420x280.jpg" class="attachment-vilva-blog size-vilva-blog" alt="" srcset="http://localhost/nnaaz/wp-content/uploads/2020/07/a3-420x280.jpg 420w, http://localhost/nnaaz/wp-content/uploads/2020/07/a3-300x200.jpg 300w, http://localhost/nnaaz/wp-content/uploads/2020/07/a3-90x60.jpg 90w, http://localhost/nnaaz/wp-content/uploads/2020/07/a3-e1595969266931.jpg 626w" sizes="(max-width: 420px) 100vw, 420px" />                            </a>
+                            <a class="btn-readmore" href="http://localhost/nnaaz/about-us/" target="_blank">HELLO,I&#039;M NAHID</a>								
+                            </li><li>                            <a href="http://localhost/nnaaz/shop/" target="_blank">
+                                <img width="420" height="280" src="http://localhost/nnaaz/wp-content/uploads/2020/07/ss-420x280.jpg" class="attachment-vilva-blog size-vilva-blog" alt="SHOP" />                            </a>
+                            <a class="btn-readmore" href="http://localhost/nnaaz/shop/" target="_blank">SHOP NOW</a>								
+                            </li><li>                            <a href="http://localhost/nnaaz/fashion/" target="_blank">
+                                <img width="420" height="280" src="http://localhost/nnaaz/wp-content/uploads/2020/07/a2-420x280.jpg" class="attachment-vilva-blog size-vilva-blog" alt="" />                            </a>
+                            <a class="btn-readmore" href="http://localhost/nnaaz/fashion/" target="_blank">TRENDY</a>								
+                            </li>			</ul>
+        </section>            </div>
+        </section> <!-- .featured-section -->
+    <div id="content" class="site-content"><div class="container"><div id="primary" class="content-area">        
+    <main id="main" class="site-main">
+
+	
+<article id="post-39" class="post-39 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-lifestyle tag-good-habits tag-habits tag-how-to-be-productive tag-how-to-utilise-time tag-quarantine tag-things-to-do-while-at-home" itemscope itemtype="https://schema.org/Blog">
+    
+	        <header class="entry-header">
+            <div class="entry-meta"><span class="posted-on">on  <a href="http://localhost/nnaaz/21-productive-things-to-do-while-at-home-or-in-quarantine/" rel="bookmark"><time class="entry-date published" datetime="2020-05-15T07:42:00+00:00" itemprop="datePublished">May 15, 2020</time><time class="updated" datetime="2020-08-05T11:17:42+00:00" itemprop="dateModified">August 5, 2020</time></a></span><span class="category"><a href="http://localhost/nnaaz/category/lifestyle/" rel="category tag">LIFESTYLE</a></span></div><h2 class="entry-title"><a href="http://localhost/nnaaz/21-productive-things-to-do-while-at-home-or-in-quarantine/" rel="bookmark">21 PRODUCTIVE THINGS TO DO WHILE AT HOME OR IN QUARANTINE</a></h2>        </header>    
+        <figure class="post-thumbnail"><a href="http://localhost/nnaaz/21-productive-things-to-do-while-at-home-or-in-quarantine/" class="post-thumbnail"><img width="900" height="500" src="http://localhost/nnaaz/wp-content/uploads/2020/07/a5-900x500.jpg" class="attachment-vilva-blog-one size-vilva-blog-one wp-post-image" alt="" itemprop="image" /></a></figure><div class="content-wrap"><div class="entry-content" itemprop="text"><p>You’re at home, or in quarantine, and need to keep yourself active and productive. Here are 21 activities that you’ll be glad you did when &hellip; </p>
+</div></div><div class="entry-footer"><div class="button-wrap"><a href="http://localhost/nnaaz/21-productive-things-to-do-while-at-home-or-in-quarantine/" class="btn-readmore">Read More<svg xmlns="http://www.w3.org/2000/svg" width="12" height="24" viewBox="0 0 12 24"><path d="M0,12,12,0,5.564,12,12,24Z" transform="translate(12 24) rotate(180)" fill="#121212"/></svg></a></div><span class="edit-link"><a class="post-edit-link" href="http://localhost/nnaaz/wp-admin/post.php?post=39&#038;action=edit">Edit <span class="screen-reader-text">21 PRODUCTIVE THINGS TO DO WHILE AT HOME OR IN QUARANTINE</span></a></span></div></article><!-- #post-39 -->
+
+<article id="post-33" class="post-33 post type-post status-publish format-standard has-post-thumbnail hentry category-nnaaz" itemscope itemtype="https://schema.org/Blog">
+    
+	<figure class="post-thumbnail"><a href="http://localhost/nnaaz/how-successful-people-make-the-most-of-their-shopping/" class="post-thumbnail"><img width="420" height="280" src="http://localhost/nnaaz/wp-content/uploads/2020/07/a3-420x280.jpg" class="attachment-vilva-blog size-vilva-blog wp-post-image" alt="" itemprop="image" srcset="http://localhost/nnaaz/wp-content/uploads/2020/07/a3-420x280.jpg 420w, http://localhost/nnaaz/wp-content/uploads/2020/07/a3-300x200.jpg 300w, http://localhost/nnaaz/wp-content/uploads/2020/07/a3-90x60.jpg 90w, http://localhost/nnaaz/wp-content/uploads/2020/07/a3-e1595969266931.jpg 626w" sizes="(max-width: 420px) 100vw, 420px" /></a></figure>    <header class="entry-header">
+        <div class="entry-meta"><span class="posted-on">on  <a href="http://localhost/nnaaz/how-successful-people-make-the-most-of-their-shopping/" rel="bookmark"><time class="entry-date published" datetime="2020-07-27T17:49:28+00:00" itemprop="datePublished">July 27, 2020</time><time class="updated" datetime="2020-07-28T20:48:30+00:00" itemprop="dateModified">July 28, 2020</time></a></span><span class="category"><a href="http://localhost/nnaaz/category/lifestyle/nnaaz/" rel="category tag">NNAAZ</a></span></div><h2 class="entry-title"><a href="http://localhost/nnaaz/how-successful-people-make-the-most-of-their-shopping/" rel="bookmark">How Successful People Make the Most of Their Shopping</a></h2>    </header> 
+    <div class="content-wrap"><div class="entry-content" itemprop="text"><p>Online shopping has become a major disrupt or in the retail industry. Consumers can now search for product information and place product orders across different &hellip; </p>
+</div></div><div class="entry-footer"><div class="button-wrap"><a href="http://localhost/nnaaz/how-successful-people-make-the-most-of-their-shopping/" class="btn-readmore">Read More<svg xmlns="http://www.w3.org/2000/svg" width="12" height="24" viewBox="0 0 12 24"><path d="M0,12,12,0,5.564,12,12,24Z" transform="translate(12 24) rotate(180)" fill="#121212"/></svg></a></div><span class="edit-link"><a class="post-edit-link" href="http://localhost/nnaaz/wp-admin/post.php?post=33&#038;action=edit">Edit <span class="screen-reader-text">How Successful People Make the Most of Their Shopping</span></a></span></div></article><!-- #post-33 -->
+
+<article id="post-43" class="post-43 post type-post status-publish format-standard has-post-thumbnail hentry category-exercise tag-daily-exercise tag-exercise tag-home-workout tag-workout-at-home tag-workout-for-everyone tag-workout-without-any-equipmnet" itemscope itemtype="https://schema.org/Blog">
+    
+	<figure class="post-thumbnail"><a href="http://localhost/nnaaz/12-best-at-home-workouts-you-can-do-without-any-equipment/" class="post-thumbnail"><img width="420" height="280" src="http://localhost/nnaaz/wp-content/uploads/2020/07/a7-420x280.jpg" class="attachment-vilva-blog size-vilva-blog wp-post-image" alt="" itemprop="image" srcset="http://localhost/nnaaz/wp-content/uploads/2020/07/a7-420x280.jpg 420w, http://localhost/nnaaz/wp-content/uploads/2020/07/a7-92x60.jpg 92w" sizes="(max-width: 420px) 100vw, 420px" /></a></figure>    <header class="entry-header">
+        <div class="entry-meta"><span class="posted-on">on  <a href="http://localhost/nnaaz/12-best-at-home-workouts-you-can-do-without-any-equipment/" rel="bookmark"><time class="entry-date published" datetime="2020-06-28T08:20:04+00:00" itemprop="datePublished">June 28, 2020</time><time class="updated" datetime="2020-07-28T08:21:55+00:00" itemprop="dateModified">July 28, 2020</time></a></span><span class="category"><a href="http://localhost/nnaaz/category/fitness/exercise/" rel="category tag">EXERCISE</a></span></div><h2 class="entry-title"><a href="http://localhost/nnaaz/12-best-at-home-workouts-you-can-do-without-any-equipment/" rel="bookmark">12 Best At-Home Workouts You Can Do Without Any Equipment</a></h2>    </header> 
+    <div class="content-wrap"><div class="entry-content" itemprop="text"><p>The best at-home workouts don’t necessarily require a ton of equipment—or&nbsp;any&nbsp;equipment—other than your own bodyweight. That’s good news for many exercisers who may not have&nbsp;dumbbells,&nbsp;kettlebells, &hellip; </p>
+</div></div><div class="entry-footer"><div class="button-wrap"><a href="http://localhost/nnaaz/12-best-at-home-workouts-you-can-do-without-any-equipment/" class="btn-readmore">Read More<svg xmlns="http://www.w3.org/2000/svg" width="12" height="24" viewBox="0 0 12 24"><path d="M0,12,12,0,5.564,12,12,24Z" transform="translate(12 24) rotate(180)" fill="#121212"/></svg></a></div><span class="edit-link"><a class="post-edit-link" href="http://localhost/nnaaz/wp-admin/post.php?post=43&#038;action=edit">Edit <span class="screen-reader-text">12 Best At-Home Workouts You Can Do Without Any Equipment</span></a></span></div></article><!-- #post-43 -->
+
+<article id="post-94" class="post-94 post type-post status-publish format-standard has-post-thumbnail hentry category-fashion category-lifestyle category-makeup category-nnaaz tag-dailyhacks tag-fashionhacks tag-hacks tag-lifehacks" itemscope itemtype="https://schema.org/Blog">
+    
+	<figure class="post-thumbnail"><a href="http://localhost/nnaaz/life-changing-fashion-tricks-and-hacks-for-women/" class="post-thumbnail"><img width="420" height="280" src="http://localhost/nnaaz/wp-content/uploads/2020/07/ffh-420x280.jpg" class="attachment-vilva-blog size-vilva-blog wp-post-image" alt="" itemprop="image" /></a></figure>    <header class="entry-header">
+        <div class="entry-meta"><span class="posted-on">on  <a href="http://localhost/nnaaz/life-changing-fashion-tricks-and-hacks-for-women/" rel="bookmark"><time class="entry-date published" datetime="2020-06-10T19:11:00+00:00" itemprop="datePublished">June 10, 2020</time><time class="updated" datetime="2020-07-29T19:19:15+00:00" itemprop="dateModified">July 29, 2020</time></a></span><span class="category"><a href="http://localhost/nnaaz/category/lifestyle/nnaaz/fashion/" rel="category tag">FASHION</a> <a href="http://localhost/nnaaz/category/lifestyle/" rel="category tag">LIFESTYLE</a> <a href="http://localhost/nnaaz/category/makeup/" rel="category tag">MAKEUP</a> <a href="http://localhost/nnaaz/category/lifestyle/nnaaz/" rel="category tag">NNAAZ</a></span></div><h2 class="entry-title"><a href="http://localhost/nnaaz/life-changing-fashion-tricks-and-hacks-for-women/" rel="bookmark">Life Changing Fashion Tricks and Hacks for Women</a></h2>    </header> 
+    <div class="content-wrap"><div class="entry-content" itemprop="text"><p>Dear Ladies, we acknowledge how you have an ever going loop between work and family that just keeps you super busy and always on your &hellip; </p>
+</div></div><div class="entry-footer"><div class="button-wrap"><a href="http://localhost/nnaaz/life-changing-fashion-tricks-and-hacks-for-women/" class="btn-readmore">Read More<svg xmlns="http://www.w3.org/2000/svg" width="12" height="24" viewBox="0 0 12 24"><path d="M0,12,12,0,5.564,12,12,24Z" transform="translate(12 24) rotate(180)" fill="#121212"/></svg></a></div><span class="edit-link"><a class="post-edit-link" href="http://localhost/nnaaz/wp-admin/post.php?post=94&#038;action=edit">Edit <span class="screen-reader-text">Life Changing Fashion Tricks and Hacks for Women</span></a></span></div></article><!-- #post-94 -->
+
+<article id="post-83" class="post-83 post type-post status-publish format-standard has-post-thumbnail hentry category-lifestyle category-nnaaz tag-bestbook2020 tag-bestbooks tag-bestnovel tag-bestnovel2020 tag-books tag-novels tag-read" itemscope itemtype="https://schema.org/Blog">
+    
+	<figure class="post-thumbnail"><a href="http://localhost/nnaaz/the-best-books-of-the-year-2020so-far/" class="post-thumbnail"><img width="420" height="280" src="http://localhost/nnaaz/wp-content/uploads/2020/07/book-420x280.jpg" class="attachment-vilva-blog size-vilva-blog wp-post-image" alt="" itemprop="image" /></a></figure>    <header class="entry-header">
+        <div class="entry-meta"><span class="posted-on">on  <a href="http://localhost/nnaaz/the-best-books-of-the-year-2020so-far/" rel="bookmark"><time class="entry-date published" datetime="2020-06-10T17:22:00+00:00" itemprop="datePublished">June 10, 2020</time><time class="updated" datetime="2020-07-29T17:42:05+00:00" itemprop="dateModified">July 29, 2020</time></a></span><span class="category"><a href="http://localhost/nnaaz/category/lifestyle/" rel="category tag">LIFESTYLE</a> <a href="http://localhost/nnaaz/category/lifestyle/nnaaz/" rel="category tag">NNAAZ</a></span></div><h2 class="entry-title"><a href="http://localhost/nnaaz/the-best-books-of-the-year-2020so-far/" rel="bookmark">The Best Books of the Year 2020(So Far)</a></h2>    </header> 
+    <div class="content-wrap"><div class="entry-content" itemprop="text"><p>Since the coronavirus descended on America, interruptions to the publishing world have been scattershot and hard to predict. Some novels, like Hilary Mantel’s&nbsp;The Mirror and &hellip; </p>
+</div></div><div class="entry-footer"><div class="button-wrap"><a href="http://localhost/nnaaz/the-best-books-of-the-year-2020so-far/" class="btn-readmore">Read More<svg xmlns="http://www.w3.org/2000/svg" width="12" height="24" viewBox="0 0 12 24"><path d="M0,12,12,0,5.564,12,12,24Z" transform="translate(12 24) rotate(180)" fill="#121212"/></svg></a></div><span class="edit-link"><a class="post-edit-link" href="http://localhost/nnaaz/wp-admin/post.php?post=83&#038;action=edit">Edit <span class="screen-reader-text">The Best Books of the Year 2020(So Far)</span></a></span></div></article><!-- #post-83 -->
+
+<article id="post-36" class="post-36 post type-post status-publish format-standard has-post-thumbnail hentry category-fashion category-lifestyle category-makeup category-nnaaz tag-makeup tag-makeuphacks" itemscope itemtype="https://schema.org/Blog">
+    
+	<figure class="post-thumbnail"><a href="http://localhost/nnaaz/designers-shouldnt-code-they-should-study-business/" class="post-thumbnail"><img width="420" height="280" src="http://localhost/nnaaz/wp-content/uploads/2020/07/mm-1-420x280.jpg" class="attachment-vilva-blog size-vilva-blog wp-post-image" alt="" itemprop="image" srcset="http://localhost/nnaaz/wp-content/uploads/2020/07/mm-1-420x280.jpg 420w, http://localhost/nnaaz/wp-content/uploads/2020/07/mm-1-300x200.jpg 300w, http://localhost/nnaaz/wp-content/uploads/2020/07/mm-1-1024x684.jpg 1024w, http://localhost/nnaaz/wp-content/uploads/2020/07/mm-1-768x513.jpg 768w, http://localhost/nnaaz/wp-content/uploads/2020/07/mm-1-1536x1025.jpg 1536w, http://localhost/nnaaz/wp-content/uploads/2020/07/mm-1-90x60.jpg 90w, http://localhost/nnaaz/wp-content/uploads/2020/07/mm-1.jpg 2048w" sizes="(max-width: 420px) 100vw, 420px" /></a></figure>    <header class="entry-header">
+        <div class="entry-meta"><span class="posted-on">on  <a href="http://localhost/nnaaz/designers-shouldnt-code-they-should-study-business/" rel="bookmark"><time class="entry-date published" datetime="2020-06-05T17:57:00+00:00" itemprop="datePublished">June 5, 2020</time><time class="updated" datetime="2020-07-29T19:46:26+00:00" itemprop="dateModified">July 29, 2020</time></a></span><span class="category"><a href="http://localhost/nnaaz/category/lifestyle/nnaaz/fashion/" rel="category tag">FASHION</a> <a href="http://localhost/nnaaz/category/lifestyle/" rel="category tag">LIFESTYLE</a> <a href="http://localhost/nnaaz/category/makeup/" rel="category tag">MAKEUP</a> <a href="http://localhost/nnaaz/category/lifestyle/nnaaz/" rel="category tag">NNAAZ</a></span></div><h2 class="entry-title"><a href="http://localhost/nnaaz/designers-shouldnt-code-they-should-study-business/" rel="bookmark">17 Makeup Tips That’ll Make Doing Your Makeup Infinitely Easier</a></h2>    </header> 
+    <div class="content-wrap"><div class="entry-content" itemprop="text"><p>Do you wear makeup? Then, hi, you need these&#8230; With all the beauty influencers, YouTubers, and 13-year-olds who could pass for 20-year-olds out there, it’s &hellip; </p>
+</div></div><div class="entry-footer"><div class="button-wrap"><a href="http://localhost/nnaaz/designers-shouldnt-code-they-should-study-business/" class="btn-readmore">Read More<svg xmlns="http://www.w3.org/2000/svg" width="12" height="24" viewBox="0 0 12 24"><path d="M0,12,12,0,5.564,12,12,24Z" transform="translate(12 24) rotate(180)" fill="#121212"/></svg></a></div><span class="edit-link"><a class="post-edit-link" href="http://localhost/nnaaz/wp-admin/post.php?post=36&#038;action=edit">Edit <span class="screen-reader-text">17 Makeup Tips That’ll Make Doing Your Makeup Infinitely Easier</span></a></span></div></article><!-- #post-36 -->
+
+<article id="post-1" class="post-1 post type-post status-publish format-standard has-post-thumbnail hentry category-nnaaz" itemscope itemtype="https://schema.org/Blog">
+    
+	<figure class="post-thumbnail"><a href="http://localhost/nnaaz/hello-world/" class="post-thumbnail"><img width="420" height="280" src="http://localhost/nnaaz/wp-content/uploads/2020/07/a3-420x280.png" class="attachment-vilva-blog size-vilva-blog wp-post-image" alt="Lifestyle" itemprop="image" srcset="http://localhost/nnaaz/wp-content/uploads/2020/07/a3-420x280.png 420w, http://localhost/nnaaz/wp-content/uploads/2020/07/a3-300x199.png 300w, http://localhost/nnaaz/wp-content/uploads/2020/07/a3-1024x680.png 1024w, http://localhost/nnaaz/wp-content/uploads/2020/07/a3-768x510.png 768w, http://localhost/nnaaz/wp-content/uploads/2020/07/a3-1536x1020.png 1536w, http://localhost/nnaaz/wp-content/uploads/2020/07/a3-90x60.png 90w, http://localhost/nnaaz/wp-content/uploads/2020/07/a3.png 1662w" sizes="(max-width: 420px) 100vw, 420px" /></a></figure>    <header class="entry-header">
+        <div class="entry-meta"><span class="posted-on">on  <a href="http://localhost/nnaaz/hello-world/" rel="bookmark"><time class="entry-date published" datetime="2020-05-25T08:46:00+00:00" itemprop="datePublished">May 25, 2020</time><time class="updated" datetime="2020-07-29T19:52:28+00:00" itemprop="dateModified">July 29, 2020</time></a></span><span class="category"><a href="http://localhost/nnaaz/category/lifestyle/nnaaz/" rel="category tag">NNAAZ</a></span></div><h2 class="entry-title"><a href="http://localhost/nnaaz/hello-world/" rel="bookmark">15 Weird Hobbies That’ll Make You Better at Pet Animals</a></h2>    </header> 
+    <div class="content-wrap"><div class="entry-content" itemprop="text"><p>Online shopping has become a major disrupt or in the retail industry. Consumers can now search for product information and place product orders across different &hellip; </p>
+</div></div><div class="entry-footer"><div class="button-wrap"><a href="http://localhost/nnaaz/hello-world/" class="btn-readmore">Read More<svg xmlns="http://www.w3.org/2000/svg" width="12" height="24" viewBox="0 0 12 24"><path d="M0,12,12,0,5.564,12,12,24Z" transform="translate(12 24) rotate(180)" fill="#121212"/></svg></a></div><span class="edit-link"><a class="post-edit-link" href="http://localhost/nnaaz/wp-admin/post.php?post=1&#038;action=edit">Edit <span class="screen-reader-text">15 Weird Hobbies That’ll Make You Better at Pet Animals</span></a></span></div></article><!-- #post-1 -->
+
+	</main><!-- #main -->
+    
+        
+</div><!-- #primary -->
+
+
+<aside id="secondary" class="widget-area" role="complementary" itemscope itemtype="http://schema.org/WPSideBar">
+	<section id="search-2" class="widget widget_search"><h2 class="widget-title" itemprop="name">SEARCH</h2><form role="search" method="get" class="search-form" action="http://localhost/nnaaz/">
+                    <label>
+                        <span class="screen-reader-text">Looking for Something?
+                        </span>
+                        <input type="search" class="search-field" placeholder="Type &amp; Hit Enter&hellip;" value="" name="s" />
+                    </label>                
+                    <input type="submit" id="submit-field" class="search-submit" value="Search" />
+                </form></section><section id="bttk_author_bio-3" class="widget widget_bttk_author_bio"><h2 class="widget-title" itemprop="name">ABOUT ME</h2>        <div class="bttk-author-bio-holder">
+            <div class="image-holder">
+                <img width="1500" height="2000" src="http://localhost/nnaaz/wp-content/uploads/2020/07/MAKEUP_20190807194025_save.jpg" class="attachment- size-" alt="Hi! I&#039;m Nahid" srcset="http://localhost/nnaaz/wp-content/uploads/2020/07/MAKEUP_20190807194025_save.jpg 1500w, http://localhost/nnaaz/wp-content/uploads/2020/07/MAKEUP_20190807194025_save-225x300.jpg 225w, http://localhost/nnaaz/wp-content/uploads/2020/07/MAKEUP_20190807194025_save-768x1024.jpg 768w, http://localhost/nnaaz/wp-content/uploads/2020/07/MAKEUP_20190807194025_save-1152x1536.jpg 1152w, http://localhost/nnaaz/wp-content/uploads/2020/07/MAKEUP_20190807194025_save-45x60.jpg 45w" sizes="(max-width: 1500px) 100vw, 1500px" />            </div> 
+            <div class="text-holder">
+                <div class="title-holder">Hi! I&#039;m Nahid</div> 
+                <div class="author-bio-content">
+                    <p>Instagram specialist. Zombie enthusiast. Tv fanatic. Lifelong gamer. Food geek. Wannabe travel nerd. Pop culture evangelist.</p>
+                </div>
+                <div class="text-signature"></div>                
+                
+    	        <div class="author-bio-socicons">
+                        	        </div>
+            </div>
+	    </div>
+        </section><section id="bttk_popular_post-3" class="widget widget_bttk_popular_post"><h2 class="widget-title" itemprop="name">Popular Posts</h2>            <ul class="style-one">
+                                    <li>
+                                                    <a target="_blank" href="http://localhost/nnaaz/hello-world/" class="post-thumbnail">
+                                <img width="286" height="190" src="http://localhost/nnaaz/wp-content/uploads/2020/07/a3.png" class="attachment-post-slider-thumb-size size-post-slider-thumb-size wp-post-image" alt="Lifestyle" itemprop="image" srcset="http://localhost/nnaaz/wp-content/uploads/2020/07/a3.png 1662w, http://localhost/nnaaz/wp-content/uploads/2020/07/a3-300x199.png 300w, http://localhost/nnaaz/wp-content/uploads/2020/07/a3-1024x680.png 1024w, http://localhost/nnaaz/wp-content/uploads/2020/07/a3-768x510.png 768w, http://localhost/nnaaz/wp-content/uploads/2020/07/a3-1536x1020.png 1536w, http://localhost/nnaaz/wp-content/uploads/2020/07/a3-90x60.png 90w, http://localhost/nnaaz/wp-content/uploads/2020/07/a3-800x530.png 800w, http://localhost/nnaaz/wp-content/uploads/2020/07/a3-420x280.png 420w" sizes="(max-width: 286px) 100vw, 286px" />                            </a>
+                                                <div class="entry-header">
+                            <span class="cat-links"><a target="_blank" href="http://localhost/nnaaz/category/lifestyle/nnaaz/" alt="View all posts in NNAAZ">NNAAZ</a></span>                            <h3 class="entry-title"><a target="_blank" href="http://localhost/nnaaz/hello-world/">15 Weird Hobbies That’ll Make You Better at Pet Animals</a></h3>
+
+                                                    </div>                        
+                    </li>        
+                                    <li>
+                                                    <a target="_blank" href="http://localhost/nnaaz/life-changing-fashion-tricks-and-hacks-for-women/" class="post-thumbnail">
+                                <img width="330" height="190" src="http://localhost/nnaaz/wp-content/uploads/2020/07/ffh-330x190.jpg" class="attachment-post-slider-thumb-size size-post-slider-thumb-size wp-post-image" alt="" itemprop="image" srcset="http://localhost/nnaaz/wp-content/uploads/2020/07/ffh-330x190.jpg 330w, http://localhost/nnaaz/wp-content/uploads/2020/07/ffh-1050x600.jpg 1050w" sizes="(max-width: 330px) 100vw, 330px" />                            </a>
+                                                <div class="entry-header">
+                            <span class="cat-links"><a target="_blank" href="http://localhost/nnaaz/category/lifestyle/nnaaz/fashion/" alt="View all posts in FASHION">FASHION</a><a target="_blank" href="http://localhost/nnaaz/category/lifestyle/" alt="View all posts in LIFESTYLE">LIFESTYLE</a><a target="_blank" href="http://localhost/nnaaz/category/makeup/" alt="View all posts in MAKEUP">MAKEUP</a><a target="_blank" href="http://localhost/nnaaz/category/lifestyle/nnaaz/" alt="View all posts in NNAAZ">NNAAZ</a></span>                            <h3 class="entry-title"><a target="_blank" href="http://localhost/nnaaz/life-changing-fashion-tricks-and-hacks-for-women/">Life Changing Fashion Tricks and Hacks for Women</a></h3>
+
+                                                    </div>                        
+                    </li>        
+                                    <li>
+                                                    <a target="_blank" href="http://localhost/nnaaz/21-productive-things-to-do-while-at-home-or-in-quarantine/" class="post-thumbnail">
+                                <img width="330" height="165" src="http://localhost/nnaaz/wp-content/uploads/2020/07/a5.jpg" class="attachment-post-slider-thumb-size size-post-slider-thumb-size wp-post-image" alt="" itemprop="image" srcset="http://localhost/nnaaz/wp-content/uploads/2020/07/a5.jpg 1400w, http://localhost/nnaaz/wp-content/uploads/2020/07/a5-300x150.jpg 300w, http://localhost/nnaaz/wp-content/uploads/2020/07/a5-1024x512.jpg 1024w, http://localhost/nnaaz/wp-content/uploads/2020/07/a5-768x384.jpg 768w, http://localhost/nnaaz/wp-content/uploads/2020/07/a5-120x60.jpg 120w" sizes="(max-width: 330px) 100vw, 330px" />                            </a>
+                                                <div class="entry-header">
+                            <span class="cat-links"><a target="_blank" href="http://localhost/nnaaz/category/lifestyle/" alt="View all posts in LIFESTYLE">LIFESTYLE</a></span>                            <h3 class="entry-title"><a target="_blank" href="http://localhost/nnaaz/21-productive-things-to-do-while-at-home-or-in-quarantine/">21 PRODUCTIVE THINGS TO DO WHILE AT HOME OR IN QUARANTINE</a></h3>
+
+                                                    </div>                        
+                    </li>        
+                            </ul>
+            </section><section id="bttk_custom_categories-5" class="widget widget_bttk_custom_categories"><h2 class="widget-title" itemprop="name">CATEGORIES</h2><div class="blossomthemes-custom-categories-wrap"><ul class="blossomthemes-custom-categories-meta-wrap"><li style="background: url(http://localhost/nnaaz/wp-content/uploads/2020/07/a7.jpg) no-repeat"><a target="_blank" href="http://localhost/nnaaz/category/fitness/exercise/"><span class="cat-title">EXERCISE</span><span class="post-count">1 Post(s)</span></a></li><li style="background: url(http://localhost/nnaaz/wp-content/uploads/2020/07/a6.png) no-repeat"><a target="_blank" href="http://localhost/nnaaz/category/fitness/"><span class="cat-title">FITNESS</span></a></li><li style="background: url(http://localhost/nnaaz/wp-content/uploads/2020/07/a3.png) no-repeat"><a target="_blank" href="http://localhost/nnaaz/category/lifestyle/"><span class="cat-title">LIFESTYLE</span><span class="post-count">4 Post(s)</span></a></li><li style="background: url(http://localhost/nnaaz/wp-content/uploads/2020/07/a9-scaled.jpeg) no-repeat"><a target="_blank" href="http://localhost/nnaaz/category/lifestyle/nnaaz/"><span class="cat-title">NNAAZ</span><span class="post-count">5 Post(s)</span></a></li></ul></div></section><section id="bttk_pro_recent_post-4" class="widget widget_bttk_pro_recent_post"><h2 class="widget-title" itemprop="name">Recent Posts</h2>            <ul class="style-one">
+                                    <li>
+                                                    <a target="_blank" href="http://localhost/nnaaz/how-successful-people-make-the-most-of-their-shopping/" class="post-thumbnail">
+                                <img width="285" height="190" src="http://localhost/nnaaz/wp-content/uploads/2020/07/a3-e1595969266931.jpg" class="attachment-post-slider-thumb-size size-post-slider-thumb-size wp-post-image" alt="" itemprop="image" />                            </a>
+                                                <div class="entry-header">
+                            <span class="cat-links"><a target="_blank" href="http://localhost/nnaaz/category/lifestyle/nnaaz/" alt="View all posts in NNAAZ">NNAAZ</a></span>                            <h3 class="entry-title"><a target="_blank" href="http://localhost/nnaaz/how-successful-people-make-the-most-of-their-shopping/">How Successful People Make the Most of Their Shopping</a></h3>
+
+                                                    </div>                        
+                    </li>        
+                                    <li>
+                                                    <a target="_blank" href="http://localhost/nnaaz/12-best-at-home-workouts-you-can-do-without-any-equipment/" class="post-thumbnail">
+                                <img width="292" height="190" src="http://localhost/nnaaz/wp-content/uploads/2020/07/a7.jpg" class="attachment-post-slider-thumb-size size-post-slider-thumb-size wp-post-image" alt="" itemprop="image" srcset="http://localhost/nnaaz/wp-content/uploads/2020/07/a7.jpg 600w, http://localhost/nnaaz/wp-content/uploads/2020/07/a7-300x195.jpg 300w, http://localhost/nnaaz/wp-content/uploads/2020/07/a7-92x60.jpg 92w" sizes="(max-width: 292px) 100vw, 292px" />                            </a>
+                                                <div class="entry-header">
+                            <span class="cat-links"><a target="_blank" href="http://localhost/nnaaz/category/fitness/exercise/" alt="View all posts in EXERCISE">EXERCISE</a></span>                            <h3 class="entry-title"><a target="_blank" href="http://localhost/nnaaz/12-best-at-home-workouts-you-can-do-without-any-equipment/">12 Best At-Home Workouts You Can Do Without Any Equipment</a></h3>
+
+                                                    </div>                        
+                    </li>        
+                                    <li>
+                                                    <a target="_blank" href="http://localhost/nnaaz/life-changing-fashion-tricks-and-hacks-for-women/" class="post-thumbnail">
+                                <img width="330" height="190" src="http://localhost/nnaaz/wp-content/uploads/2020/07/ffh-330x190.jpg" class="attachment-post-slider-thumb-size size-post-slider-thumb-size wp-post-image" alt="" itemprop="image" srcset="http://localhost/nnaaz/wp-content/uploads/2020/07/ffh-330x190.jpg 330w, http://localhost/nnaaz/wp-content/uploads/2020/07/ffh-1050x600.jpg 1050w" sizes="(max-width: 330px) 100vw, 330px" />                            </a>
+                                                <div class="entry-header">
+                            <span class="cat-links"><a target="_blank" href="http://localhost/nnaaz/category/lifestyle/nnaaz/fashion/" alt="View all posts in FASHION">FASHION</a><a target="_blank" href="http://localhost/nnaaz/category/lifestyle/" alt="View all posts in LIFESTYLE">LIFESTYLE</a><a target="_blank" href="http://localhost/nnaaz/category/makeup/" alt="View all posts in MAKEUP">MAKEUP</a><a target="_blank" href="http://localhost/nnaaz/category/lifestyle/nnaaz/" alt="View all posts in NNAAZ">NNAAZ</a></span>                            <h3 class="entry-title"><a target="_blank" href="http://localhost/nnaaz/life-changing-fashion-tricks-and-hacks-for-women/">Life Changing Fashion Tricks and Hacks for Women</a></h3>
+
+                                                    </div>                        
+                    </li>        
+                            </ul>
+            </section><section id="recent-comments-2" class="widget widget_recent_comments"><h2 class="widget-title" itemprop="name">Recent Comments</h2><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link"><span itemprop="name"><a href=http://localhost/nnaaz rel="external nofollow noopener" class="url" itemprop="url">admin</a></span></span> on <a href="http://localhost/nnaaz/hello-world/#comment-2">15 Weird Hobbies That’ll Make You Better at Pet Animals</a></li><li class="recentcomments"><span class="comment-author-link"><span itemprop="name">hezal</span></span> on <a href="http://localhost/nnaaz/hello-world/#comment-1">15 Weird Hobbies That’ll Make You Better at Pet Animals</a></li></ul></section><section id="archives-2" class="widget widget_archive"><h2 class="widget-title" itemprop="name">Archives</h2>		<label class="screen-reader-text" for="archives-dropdown-2">Archives</label>
+		<select id="archives-dropdown-2" name="archive-dropdown">
+			
+			<option value="">Select Month</option>
+				<option value='http://localhost/nnaaz/2020/07/'> July 2020 </option>
+	<option value='http://localhost/nnaaz/2020/06/'> June 2020 </option>
+	<option value='http://localhost/nnaaz/2020/05/'> May 2020 </option>
+
+		</select>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "archives-dropdown-2" );
+	function onSelectChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value !== '' ) {
+			document.location.href = this.options[ this.selectedIndex ].value;
+		}
+	}
+	dropdown.onchange = onSelectChange;
+})();
+/* ]]> */
+</script>
+
+		</section></aside><!-- #secondary -->
+            
+        </div><!-- .container/ -->        
+    </div><!-- .error-holder/site-content -->
+        <footer id="colophon" class="site-footer" itemscope itemtype="http://schema.org/WPFooter">
+            <div class="footer-t">
+    		<div class="container">
+    			<div class="grid column-4">
+                    				<div class="col">
+    				   <section id="pages-5" class="widget widget_pages"><h2 class="widget-title" itemprop="name">COMPANY</h2>		<ul>
+			<li class="page_item page-item-14"><a href="http://localhost/nnaaz/about-us/">ABOUT US</a></li>
+<li class="page_item page-item-17"><a href="http://localhost/nnaaz/contact-us/">CONTACT US</a></li>
+<li class="page_item page-item-64"><a href="http://localhost/nnaaz/fashion/">FASHION</a></li>
+<li class="page_item page-item-5"><a href="http://localhost/nnaaz/home/">HOME</a></li>
+<li class="page_item page-item-60"><a href="http://localhost/nnaaz/shop/">SHOP</a></li>
+		</ul>
+			</section>	
+    				</div>
+                    				<div class="col">
+    				   <section id="bttk_contact_social_links-2" class="widget widget_bttk_contact_social_links"><h2 class="widget-title" itemprop="name">CONTACT INFORMATION</h2>  
+
+        <div class="bttk-contact-widget-wrap contact-info">
+        <p>WELCOME TO NNAAZ<br />
+Feel free to Contact Us.</p>
+<ul class="contact-list"><li><i class="fa fa-phone"></i><a href="tel:01126485775">011-26485775</a></li><li><i class="fa fa-envelope"></i><a href="mailto:nnaazbrand511@gmail.com">nnaazbrand511@gmail.com</a></li><li><i class="fa fa-map-marker"></i>15 Street no, Lajpat Nagar, Near Bsnl Gate, Phase 2</li></ul>        </div>
+        </section><section id="bttk_social_links-2" class="widget widget_bttk_social_links"><h2 class="widget-title" itemprop="name">Subscribe and Follow</h2>            <ul class="social-networks">
+                                                <li class="bttk-social-icon-wrap">
+                                    <a title="https://www.instagram.com/nnaazbrand/" target=_blank href="https://www.instagram.com/nnaazbrand/">
+                                        <span class="bttk-social-links-field-handle"><i class="fab fa-instagram"></i></span>
+                                    </a>
+                                </li>
+                                                            <li class="bttk-social-icon-wrap">
+                                    <a title="https://facebook.com" target=_blank href="https://facebook.com">
+                                        <span class="bttk-social-links-field-handle"><i class="fab fa-facebook"></i></span>
+                                    </a>
+                                </li>
+                                                            <li class="bttk-social-icon-wrap">
+                                    <a title="https://twitter-square.com" target=_blank href="https://twitter-square.com">
+                                        <span class="bttk-social-links-field-handle"><i class="fab fa-twitter-square"></i></span>
+                                    </a>
+                                </li>
+                                                            <li class="bttk-social-icon-wrap">
+                                    <a title="https://youtube.com" target=_blank href="https://youtube.com">
+                                        <span class="bttk-social-links-field-handle"><i class="fab fa-youtube"></i></span>
+                                    </a>
+                                </li>
+                                                            <li class="bttk-social-icon-wrap">
+                                    <a title="https://pinterest-square.com" target=_blank href="https://pinterest-square.com">
+                                        <span class="bttk-social-links-field-handle"><i class="fab fa-pinterest-square"></i></span>
+                                    </a>
+                                </li>
+                                        </ul>
+        </section>	
+    				</div>
+                    				<div class="col">
+    				   <section id="bttk_pro_recent_post-2" class="widget widget_bttk_pro_recent_post"><h2 class="widget-title" itemprop="name">RECENT POSTS</h2>            <ul class="style-one">
+                                    <li>
+                                                    <a target="_self" href="http://localhost/nnaaz/how-successful-people-make-the-most-of-their-shopping/" class="post-thumbnail">
+                                <img width="285" height="190" src="http://localhost/nnaaz/wp-content/uploads/2020/07/a3-e1595969266931.jpg" class="attachment-post-slider-thumb-size size-post-slider-thumb-size wp-post-image" alt="" itemprop="image" />                            </a>
+                                                <div class="entry-header">
+                            <span class="cat-links"><a target="_self" href="http://localhost/nnaaz/category/lifestyle/nnaaz/" alt="View all posts in NNAAZ">NNAAZ</a></span>                            <h3 class="entry-title"><a target="_self" href="http://localhost/nnaaz/how-successful-people-make-the-most-of-their-shopping/">How Successful People Make the Most of Their Shopping</a></h3>
+
+                                                            <div class="entry-meta">
+                                    <span class="posted-on"><a target="_self" href="http://localhost/nnaaz/how-successful-people-make-the-most-of-their-shopping/">
+                                        <time datetime="2020-07-27">July 27, 2020</time></a>
+                                    </span>
+                                </div>
+                                                    </div>                        
+                    </li>        
+                                    <li>
+                                                    <a target="_self" href="http://localhost/nnaaz/12-best-at-home-workouts-you-can-do-without-any-equipment/" class="post-thumbnail">
+                                <img width="292" height="190" src="http://localhost/nnaaz/wp-content/uploads/2020/07/a7.jpg" class="attachment-post-slider-thumb-size size-post-slider-thumb-size wp-post-image" alt="" itemprop="image" srcset="http://localhost/nnaaz/wp-content/uploads/2020/07/a7.jpg 600w, http://localhost/nnaaz/wp-content/uploads/2020/07/a7-300x195.jpg 300w, http://localhost/nnaaz/wp-content/uploads/2020/07/a7-92x60.jpg 92w" sizes="(max-width: 292px) 100vw, 292px" />                            </a>
+                                                <div class="entry-header">
+                            <span class="cat-links"><a target="_self" href="http://localhost/nnaaz/category/fitness/exercise/" alt="View all posts in EXERCISE">EXERCISE</a></span>                            <h3 class="entry-title"><a target="_self" href="http://localhost/nnaaz/12-best-at-home-workouts-you-can-do-without-any-equipment/">12 Best At-Home Workouts You Can Do Without Any Equipment</a></h3>
+
+                                                            <div class="entry-meta">
+                                    <span class="posted-on"><a target="_self" href="http://localhost/nnaaz/12-best-at-home-workouts-you-can-do-without-any-equipment/">
+                                        <time datetime="2020-06-28">June 28, 2020</time></a>
+                                    </span>
+                                </div>
+                                                    </div>                        
+                    </li>        
+                                    <li>
+                                                    <a target="_self" href="http://localhost/nnaaz/life-changing-fashion-tricks-and-hacks-for-women/" class="post-thumbnail">
+                                <img width="330" height="190" src="http://localhost/nnaaz/wp-content/uploads/2020/07/ffh-330x190.jpg" class="attachment-post-slider-thumb-size size-post-slider-thumb-size wp-post-image" alt="" itemprop="image" srcset="http://localhost/nnaaz/wp-content/uploads/2020/07/ffh-330x190.jpg 330w, http://localhost/nnaaz/wp-content/uploads/2020/07/ffh-1050x600.jpg 1050w" sizes="(max-width: 330px) 100vw, 330px" />                            </a>
+                                                <div class="entry-header">
+                            <span class="cat-links"><a target="_self" href="http://localhost/nnaaz/category/lifestyle/nnaaz/fashion/" alt="View all posts in FASHION">FASHION</a><a target="_self" href="http://localhost/nnaaz/category/lifestyle/" alt="View all posts in LIFESTYLE">LIFESTYLE</a><a target="_self" href="http://localhost/nnaaz/category/makeup/" alt="View all posts in MAKEUP">MAKEUP</a><a target="_self" href="http://localhost/nnaaz/category/lifestyle/nnaaz/" alt="View all posts in NNAAZ">NNAAZ</a></span>                            <h3 class="entry-title"><a target="_self" href="http://localhost/nnaaz/life-changing-fashion-tricks-and-hacks-for-women/">Life Changing Fashion Tricks and Hacks for Women</a></h3>
+
+                                                            <div class="entry-meta">
+                                    <span class="posted-on"><a target="_self" href="http://localhost/nnaaz/life-changing-fashion-tricks-and-hacks-for-women/">
+                                        <time datetime="2020-06-10">June 10, 2020</time></a>
+                                    </span>
+                                </div>
+                                                    </div>                        
+                    </li>        
+                            </ul>
+            </section>	
+    				</div>
+                    				<div class="col">
+    				   <section id="blossomthemes_email_newsletter_widget-6" class="widget widget_blossomthemes_email_newsletter_widget"><h2 class="widget-title" itemprop="name">EMAIL NEWSLETTER</h2>                <div class="blossomthemes-email-newsletter-wrapper" id="boxes-59" style="background: ; color:;">
+                                        <div class="text-holder" >
+                        <h3>NEWSLETTER</h3>                        <span>Keep up to date by sign up for our newsletter and stay informed.</span>                    </div>
+                    <form id="blossomthemes-email-newsletter-59" class="blossomthemes-email-newsletter-window-59">
+                                                    <input type="text" name="subscribe-fname" required="required" class="subscribe-fname-59" value="" placeholder="Your First Name">
+                            <input type="text" name="subscribe-email" required="required" class="subscribe-email-59" value="" placeholder="Your Email">
+                                                <label for="subscribe-confirmation-59">
+                            <div class="subscribe-inner-wrap">
+                                <input type="checkbox" class="subscribe-confirmation-59" name="subscribe-confirmation" id="subscribe-confirmation-59" required/><span class="check-mark"></span>
+                                <span class="text">
+                                    By checking this, you agree to our Privacy Policy.                                </span>
+                            </div>
+                        </label>
+                                                <div id="loader-59" style="display: none">
+                            <div class="table">
+                                <div class="table-row">
+                                    <div class="table-cell">
+                                        <img src="http://localhost/nnaaz/wp-content/plugins/blossomthemes-email-newsletter/public/css/loader.gif">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <input type="submit" name="subscribe-submit" class="subscribe-submit-59" value="Subscribe">
+                        <input type="hidden" id="bten_subscription_nonce_59" name="bten_subscription_nonce_59" value="fbc3fe37d0" /><input type="hidden" name="_wp_http_referer" value="/nnaaz/" />                    </form>
+                    <div class="bten-response" id="bten-response-59"><span></span></div>
+                    <div id="mask-59"></div>
+                </div>
+                <style>#mask-59{position:fixed;width:100%;height:100%;left:0;top:0;z-index:9000;background-color:#000;display:none}#boxes-59 #dialog{width:750px;height:300px;padding:10px;background-color:#fff;font-family:"Segoe UI Light",sans-serif;font-size:15pt}#blossomthemes-email-newsletter-59 input.subscribe-submit-59{color:;background:}#blossomthemes-email-newsletter-59 input.subscribe-submit-59:hover{color:;background:}#loader-59{position:absolute;top:27%;left:0;width:100%;height:80%;text-align:center;font-size:50px}#loader-59 .table{display:table;width:100%;height:100%}#loader-59 .table-row{display:table-row}#loader-59 .table-cell{display:table-cell;vertical-align:middle}</style><script>jQuery(document).ready(function(){jQuery(document).on("submit","form#blossomthemes-email-newsletter-59",function(e){e.preventDefault();jQuery(".subscribe-submit-59").attr("disabled","disabled");var email=jQuery(".subscribe-email-59").val();var fname=jQuery(".subscribe-fname-59").val();var sid=59;var nonce=jQuery("#bten_subscription_nonce_59").val();jQuery.ajax({type:"post",dataType:"json",url:bten_ajax_data.ajaxurl,data:{action:"subscription_response",email:email,fname:fname,sid:sid,nonce:nonce},beforeSend:function(){jQuery("#loader-59").fadeIn(500)},success:function(response){jQuery(".subscribe-submit-59").attr("disabled","disabled");if(response.type==="success"){jQuery("#bten-response-59 span").html(response.message);jQuery("#bten-response-59").fadeIn("slow").delay("3000").fadeOut("3000",function(){jQuery(".subscribe-submit-59").removeAttr("disabled","disabled");jQuery("form#blossomthemes-email-newsletter-59").find("input[type=text]").val("")})}else{jQuery("#bten-response-59 span").html(response.message);jQuery("#bten-response-59").fadeIn("slow").delay("3000").fadeOut("3000",function(){jQuery(".subscribe-submit-59").removeAttr("disabled","disabled");jQuery("form#blossomthemes-email-newsletter-59").find("input[type=text]").val("")})}},complete:function(){jQuery("#loader-59").fadeOut(500)}})})});</script></section>	
+    				</div>
+                                </div>
+    		</div>
+    	</div>
+            <div class="footer-b">
+        <div class="container">
+            <div class="copyright">
+                &copy; Copyright 2022 <a href="http://localhost/nnaaz/">NNAAZ</a>. All Rights Reserved.  Vilva | Developed By <a href="https://blossomthemes.com/" rel="nofollow" target="_blank">Blossom Themes</a>. Powered by <a href="https://wordpress.org/" target="_blank">WordPress</a>.  
+            </div>
+            <div class="footer-social">
+                            </div>
+            
+        </div>
+    </div> <!-- .footer-b -->
+        </footer><!-- #colophon -->
+        <button class="back-to-top">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><g transform="translate(-1789 -1176)"><rect width="24" height="2.667" transform="translate(1789 1176)" fill="#fff"/><path d="M-215.453,382.373-221.427,372l-5.973,10.373h4.64v8.293h2.667v-8.293Z" transform="translate(2022.427 809.333)" fill="#fff"/></g></svg>
+    </button>
+        </div><!-- #page -->
+    <link rel='stylesheet' id='Dancing-Script-css'  href='http://localhost/nnaaz/wp-content/plugins/blossomthemes-toolkit/public/css/dancing-script.min.css?ver=1.0.0' type='text/css' media='all' />
+<script type='text/javascript' src='http://localhost/nnaaz/wp-includes/js/hoverintent-js.min.js?ver=2.2.1'></script>
+<script type='text/javascript' src='http://localhost/nnaaz/wp-includes/js/admin-bar.min.js?ver=5.4.9'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var bten_ajax_data = {"ajaxurl":"http:\/\/localhost\/nnaaz\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://localhost/nnaaz/wp-content/plugins/blossomthemes-email-newsletter/public/js/blossomthemes-email-newsletter-public.min.js?ver=2.1.1'></script>
+<script type='text/javascript' src='http://localhost/nnaaz/wp-content/plugins/blossomthemes-email-newsletter/public/js/all.min.js?ver=5.6.3'></script>
+<script type='text/javascript' src='http://localhost/nnaaz/wp-content/plugins/blossomthemes-instagram-feed/public/js/blossomthemes-instagram-feed-public.min.js?ver=2.0.0'></script>
+<script type='text/javascript' src='http://localhost/nnaaz/wp-content/plugins/blossomthemes-instagram-feed/public/js/jquery.magnific-popup.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://localhost/nnaaz/wp-content/plugins/blossomthemes-toolkit/public/js/isotope.pkgd.min.js?ver=3.0.5'></script>
+<script type='text/javascript' src='http://localhost/nnaaz/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='http://localhost/nnaaz/wp-includes/js/masonry.min.js?ver=3.3.2'></script>
+<script type='text/javascript' src='http://localhost/nnaaz/wp-content/plugins/blossomthemes-toolkit/public/js/blossomthemes-toolkit-public.min.js?ver=2.1.9'></script>
+<script type='text/javascript' src='http://localhost/nnaaz/wp-content/plugins/blossomthemes-toolkit/public/js/fontawesome/v4-shims.min.js?ver=5.6.3'></script>
+<script type='text/javascript' src='http://localhost/nnaaz/wp-content/themes/vilva/js/owl.carousel.min.js?ver=2.3.4'></script>
+<script type='text/javascript' src='http://localhost/nnaaz/wp-content/themes/vilva/js/owlcarousel2-a11ylayer.min.js?ver=0.2.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var vilva_data = {"rtl":"","auto":"1","loop":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://localhost/nnaaz/wp-content/themes/vilva/js/custom.min.js?ver=1.0.5'></script>
+<script type='text/javascript' src='http://localhost/nnaaz/wp-content/themes/vilva/js/modal-accessibility.min.js?ver=1.0.5'></script>
+<script type='text/javascript' src='http://localhost/nnaaz/wp-includes/js/wp-embed.min.js?ver=5.4.9'></script>
+
+</body>
+</html>
